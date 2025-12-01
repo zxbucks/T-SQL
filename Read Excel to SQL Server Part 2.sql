@@ -1,3 +1,4 @@
+--Read Excel from file system (network shared too) to SQL Server
 --Part 2:
 --Create a Excel file as C:\SQL\Test.xlsx with data and column header to test below script:
 
@@ -41,6 +42,7 @@ PRINT(@SQLStr);
 PRINT '';
 PRINT '';		  
 EXECUTE(@SQLStr);
+
 
 
 END

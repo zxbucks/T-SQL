@@ -6,7 +6,6 @@
 --2. Create an Excel file as C:\SQL\Test.xlsx (with data and column header) to test below script:
 
 
-
 Declare 
 @SourceFullPathFileName NVARCHAR(255)='C:\SQL\', 
 @FileName NVARCHAR(255)='Test.xlsx',
@@ -43,3 +42,4 @@ PRINT '';
 EXECUTE(@SQLStr);
 
 END
+

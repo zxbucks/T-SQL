@@ -1,10 +1,7 @@
-🔧 SQL scripts:  
-Performance tuning, monitoring, and automation.  
-Read/write Excel/csv/json  
-ETL solution copy tables with metadata control table.  
+🔧 SQL scripts for performance tuning and ETL automation.  
 
 🚀 How to Use:  
 Feel free to clone the repository or copy individual scripts.  
-Review each script before execution—some require sysadmin or elevated permissions.  
-Test in a non-production environment first.  
+Review each script before run, some require sysadmin or elevated permissions.  
+Test in non-production environment first.  
 Modify as needed, but keep attribution (see License).  

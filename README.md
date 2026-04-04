@@ -1,5 +1,5 @@
 🔧 SQL scripts:  
-Performance tuning, monitoring, automation, and daily SQL Server.  
+Performance tuning, monitoring, and automation.  
 Read/write Excel/csv/json  
 ETL solution copy tables with metadata control table.  
 

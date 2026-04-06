@@ -18,4 +18,4 @@ EXEC sp_BlitzFirst @seconds= 60, @ExpertMode=1;
 --                             EXEC sp_BlitzCache @SortOrder = 'unused grant';
 --  Hardware-Sounding Waits    WRITELOG, HADR_SYNC_COMMIT, ASYNC_NETWORK_IO
 
-EXEC sp_BlitzWho @ExpertMode=1;
+EXEC sp_WhoIsActive @get_locks = 1, @get_plans = 1;
